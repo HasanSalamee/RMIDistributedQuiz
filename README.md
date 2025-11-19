@@ -177,7 +177,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-  * HasanSalami - Initial work and RMI system design
+   HasanSalamee 
 
 -----
 
